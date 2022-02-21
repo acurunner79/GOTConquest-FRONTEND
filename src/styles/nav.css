@@ -1,0 +1,14 @@
+#navbar{
+    background-image: url('https://res.cloudinary.com/acurunner79/image/upload/v1643594046/header-bg-m_w2qkmn.jpg');
+}
+
+#links-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#links-container li, a{
+    list-style: none ;
+    text-decoration: none;
+    color: white;
+}

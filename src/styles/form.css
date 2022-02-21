@@ -1,0 +1,29 @@
+.user-card{
+    width: 45vw;
+    text-align: left;
+    margin: 10px auto;
+    padding: 0 10px;
+    border: 2px solid rgb(204, 160, 78);
+    background-image: url('https://res.cloudinary.com/acurunner79/image/upload/v1643596768/wood-texture-picture-id523495184_voc3mg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    /* width: 95vw; */
+    margin: 0 auto;
+}
+
+.form-input{
+    width: 40vw;
+    margin: 5px auto;
+    /* background: transparent; */
+}
+
+.button{
+    width: 150px;
+    margin: 0 auto;
+}
